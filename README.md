@@ -12,5 +12,6 @@ En este paso configure el modo de red NAT para el aboratorio y así tener acceso
 ![img alt](https://github.com/laraaaaa-spec/-Reporte-T-cnico-de-Configuraci-n_Lara-Esposito/blob/e3729bfe6087a44df739fbfc1d64f3cc795a33ba/IMG%203.jpeg)
 
 ## SNAPSHOT INICIAL
+Realicé una instantanea inicial en VirtualBox para restaurar por si algo sale mal.
 ![img alt](https://github.com/laraaaaa-spec/-Reporte-T-cnico-de-Configuraci-n_Lara-Esposito/blob/8964838a35416023257663b9cdb6d976d75264c4/IMG%204.jpeg)
 
