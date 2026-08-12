@@ -8,6 +8,7 @@ En este paso configure el modo de red NAT para el aboratorio y así tener acceso
 ![image alt](https://github.com/laraaaaa-spec/-Reporte-T-cnico-de-Configuraci-n_Lara-Esposito/blob/a3dceb4375e1d886fc52d983e2a289e8f0772c4d/IMG%201.jpeg)
 
 ## PERMISOS Y GESTIÓN EN LINUX
+![img](https://github.com/laraaaaa-spec/-Reporte-T-cnico-de-Configuraci-n_Lara-Esposito/blob/fda570dab8b34a87562770953ffaa4e0309e0b90/IMG%202.jpeg)
 ![img alt](https://github.com/laraaaaa-spec/-Reporte-T-cnico-de-Configuraci-n_Lara-Esposito/blob/e3729bfe6087a44df739fbfc1d64f3cc795a33ba/IMG%203.jpeg)
 
 ## SNAPSHOT INICIAL
