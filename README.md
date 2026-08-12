@@ -1,10 +1,10 @@
 # -Reporte-T-cnico-de-Configuraci-n_Lara-Esposito
 # MI PRIMER LABORATORIO SEGURO DE CIBERSEGURIDAD
 ## USUARIOS EN WINDOWS
-Para realizar estas prácticas creé un usuario estándar y mantuve Windows Updates al día. 
+Para realizar estas prácticas creé un usuario estándar adicional y mantuve Windows actualizado con "Windows Updates". 
 ![img alt](https://github.com/laraaaaa-spec/-Reporte-T-cnico-de-Configuraci-n_Lara-Esposito/blob/4418f01e85ce677cc47c2c99ba5808e8e469e71d/IMG%205.jpeg)
 
-En este paso configure el modo de red NAT para el laboratorio y así tener acceso a internet y hacer las actualizaciones de los paquetes mediante apt update. A la vez esto me permite mantener segura la red con la menos exposición posible. 
+En este paso configure el modo de red NAT para el laboratorio y así tener acceso a internet y hacer las actualizaciones de los paquetes mediante apt update. A la vez esto me permite mantener segura la red con la menor exposición posible. 
 ![image alt](https://github.com/laraaaaa-spec/-Reporte-T-cnico-de-Configuraci-n_Lara-Esposito/blob/a3dceb4375e1d886fc52d983e2a289e8f0772c4d/IMG%201.jpeg)
 
 ## PERMISOS Y GESTIÓN EN LINUX
