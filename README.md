@@ -4,10 +4,11 @@
 Para realizar estas prácticas cree un usuario extra con Windows updates al día actualizadas. 
 ![img alt](https://github.com/laraaaaa-spec/-Reporte-T-cnico-de-Configuraci-n_Lara-Esposito/blob/4418f01e85ce677cc47c2c99ba5808e8e469e71d/IMG%205.jpeg)
 
-En este paso configure el modo de red NAT para el aboratorio y así tener acceso a internet y hacer las actualizaciones de los paquetes mediante apt ungrade. A la vez esto me permite mantener segura la red con la menos exposición posible. 
+En este paso configure el modo de red NAT para el aboratorio y así tener acceso a internet y hacer las actualizaciones de los paquetes mediante apt upgrade. A la vez esto me permite mantener segura la red con la menos exposición posible. 
 ![image alt](https://github.com/laraaaaa-spec/-Reporte-T-cnico-de-Configuraci-n_Lara-Esposito/blob/a3dceb4375e1d886fc52d983e2a289e8f0772c4d/IMG%201.jpeg)
 
 ## PERMISOS Y GESTIÓN EN LINUX
+Usé el comando "ls -l practica.txt" para verificar los permisos del archivo "practica.txt" y después comprobar y actualizar los paquetes con "sudo apt update" 
 ![img](https://github.com/laraaaaa-spec/-Reporte-T-cnico-de-Configuraci-n_Lara-Esposito/blob/fda570dab8b34a87562770953ffaa4e0309e0b90/IMG%202.jpeg)
 ![img alt](https://github.com/laraaaaa-spec/-Reporte-T-cnico-de-Configuraci-n_Lara-Esposito/blob/e3729bfe6087a44df739fbfc1d64f3cc795a33ba/IMG%203.jpeg)
 
